@@ -5,6 +5,9 @@ A responsive, accessible expense tracker built with vanilla HTML/CSS/JS. Base cu
 ## Live Demo (GitHub Pages)
 [https://alvinmutangana.github.io/student-finance-tracker/](https://alvinmutangana.github.io/student-finance-tracker/)
 
+## demo video (youtube unlisted link)
+[https://youtu.be/LfN5MuOPRFw](https://www.youtube.com/watch?v=LfN5MuOPRFw)
+
 ## Features
 - Add, edit, delete expenses
 - Regex‑validated form (description, amount, date, category)
